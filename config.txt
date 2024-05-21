@@ -1,0 +1,4 @@
+waitReading=2.0
+waitWriting=2.0
+waitMoving=2.0
+waitScrolling=2.0
